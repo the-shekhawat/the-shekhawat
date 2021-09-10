@@ -48,7 +48,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src=
-    "https://github-profile-trophy.vercel.app/?username=darshansaini&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh%22>
+    "https://github-profile-trophy.vercel.app/?username=darshansaini&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfreshs%22">
   </a>
 </p> 
  
