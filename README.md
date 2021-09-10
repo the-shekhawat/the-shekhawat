@@ -101,7 +101,7 @@
   <code><a href="https://www.linkedin.com/in/darshan-saini-617140193"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/linked(color).png" alt="Akash's linkedin" width="40px" /></a></code>  
   <code><a href="https://www.instagram.com/darshan_in_the_frame/" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/insta(color).png" alt="Akash's Instagram" width="40px" /></a></code>
   <code><a href="https://www.facebook.com/darshan.saini.52035/" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/facebook(color).png" alt="Akash's Facebook" width="40px" /></a></code>
-  <code><a href="https://t.me/darshansaini" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/facebook(color).png" width="40px" /></a></code>
+  <code><a href="https://t.me/darshansaini" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/telegram(color).png" width="40px" /></a></code>
   <code><a href="https://wa.me/919079919895" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/whatsapp(color).png" width="40px" /></a></code>
   <code><a href="https://github.com/darshansaini" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/github(color).png" width="50px"/></a></code> 
   </p>
