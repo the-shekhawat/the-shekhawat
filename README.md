@@ -18,7 +18,7 @@
 [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UCKiIyY9kVPld4Q2T9OCgS9w)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w)
 <br>
 
-- 🔭 I have done<sup>nd</sup> Masters Of Computer Application.
+- 🔭 I have done Masters Of Computer Application.
 - 🌱 I’m currently working on Open-Source.
 - :zap: I’m currently learning Data Structure and algorithms.
 - 🎯 I’m focusing on Competitive Programming.
