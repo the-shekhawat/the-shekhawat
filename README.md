@@ -3,12 +3,12 @@
 </p>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://akashsingh3031.github.io/CodeWithSky/"> Darshan Saini </a><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Developer.gif" width="65px"></h1>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/darshansaini) 
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=darshansaini.profileviews-badge)](https://github.com/darshansaini) 
-[![Repos Badge](https://badges.pufler.dev/repos/darshansaini)](https://github.com/darshansaini?tab=repositories) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/darshansaini) 
-[![GitHub followers](https://img.shields.io/github/followers/darshansaini?style=social)](https://github.com/darshansaini?tab=followers) 
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/darshan-saini-617140193) 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Lakhan-Gurjar) 
+[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=darshansaini.profileviews-badge)](https://github.com/Lakhan-Gurjar) 
+[![Repos Badge](https://badges.pufler.dev/repos/Lakhan-Gurjar)](https://github.com/Lakhan-Gurjar?tab=repositories) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Lakhan-Gurjar) 
+[![GitHub followers](https://img.shields.io/github/followers/Lakhan-Gurjar?style=social)](https://github.com/Lakhan-Gurjar?tab=followers) 
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/-617140193) 
 [![Connect on WhatsApp](https://img.shields.io/badge/--WhatsApp?label=WhatsApp&logo=WhatsApp&style=social)](https://wa.me/919079919895)
 [![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/darshansaini)
 [![Connect on Facebook](https://img.shields.io/badge/--Facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/darshan.saini.52035)
