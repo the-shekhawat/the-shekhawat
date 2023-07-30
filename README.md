@@ -24,8 +24,8 @@
 <!-- - <details> 
   <summary>💬 Ask me about programming languages😎 </summary> 
   
-  <a href="https://wa.me/919079919895" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="27px" /> </a> 
-  <a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="27px" /></a>
+  <a href="https://wa.me/919079919895" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/whatsapp(color).png" width="27px" /> </a> 
+  <a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/telegram(color).png" width="27px" /></a>
 </details>   -->
 - <details> 
   <summary>📫  How to reach me :</summary> 
@@ -47,7 +47,7 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src=
-    "https://github-profile-trophy.vercel.app/?username=darshansaini&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfreshs%22">
+    "https://github-profile-trophy.vercel.app/?username=Lakhan-Gurjar&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfreshs%22">
   </a>
 </p> 
  
@@ -56,7 +56,7 @@
 
 <p align="left">
   <code><img src="https://github.com/darshansaini/darshansaini/blob/master/python-original.svg" alt="python" width="40" height="40"/></code> 
-  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/c-original.svg" alt="C" width="40" height="40"/></code>
+  <code><img src="https://github.com/darshansaini/darshansaini/blob/master/c-original.svg" alt="C" width="40" height="40"/></code>
   <code><img src="https://github.com/darshansaini/darshansaini/blob/master/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
   <code><img src="https://github.com/darshansaini/darshansaini/blob/master/java-original.svg" alt="Java" width="40" height="40"/></code> 
   <code><img src="https://github.com/darshansaini/darshansaini/blob/master/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
@@ -93,16 +93,16 @@
 
 <br>
 
- <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Handshake.gif" height="30px"></h4>
+ <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/Handshake.gif" height="30px"></h4>
 
 <p align="center">
-  <code><a href="https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/youtube(color).png" alt="YouTube"  width="40px" /></a></code>
-  <code><a href="https://www.linkedin.com/in/darshan-saini-617140193"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/linked(color).png" alt="Akash's linkedin" width="40px" /></a></code>  
-  <code><a href="https://www.instagram.com/darshan_in_the_frame/" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/insta(color).png" alt="Akash's Instagram" width="40px" /></a></code>
-  <code><a href="https://www.facebook.com/darshan.saini.52035/" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/facebook(color).png" alt="Akash's Facebook" width="40px" /></a></code>
-  <code><a href="https://t.me/darshansaini" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/telegram(color).png" width="40px" /></a></code>
-  <code><a href="https://wa.me/919079919895" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/whatsapp(color).png" width="40px" /></a></code>
-  <code><a href="https://github.com/darshansaini" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/github(color).png" width="50px"/></a></code> 
+  <code><a href="https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/youtube(color).png" alt="YouTube"  width="40px" /></a></code>
+  <code><a href="https://www.linkedin.com/in/darshan-saini-617140193"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/linked(color).png" alt="Lakhan's linkedin" width="40px" /></a></code>  
+  <code><a href="https://www.instagram.com/darshan_in_the_frame/" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/insta(color).png" alt="Lakhan's Instagram" width="40px" /></a></code>
+  <code><a href="https://www.facebook.com/darshan.saini.52035/" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/facebook(color).png" alt="Lakhan's Facebook" width="40px" /></a></code>
+  <code><a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gujar/blob/master/telegram(color).png" width="40px" /></a></code>
+  <code><a href="https://wa.me/919079919895" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/whatsapp(color).png" width="40px" /></a></code>
+  <code><a href="https://github.com/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github(color).png" width="50px"/></a></code> 
   </p>
 
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/darshansaini/darshansaini/blob/master/marquee.svg"/> 
+<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/marquee.svg"/> 
