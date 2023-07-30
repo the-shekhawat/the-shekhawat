@@ -1,7 +1,7 @@
 <p align="center">
-<img src="https://github.com/darshansaini/darshansaini/blob/master/Developer.gif" width="200px">
+<img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/Developer.gif" width="200px">
 </p>
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://akashsingh3031.github.io/CodeWithSky/"> Darshan Saini </a><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Developer.gif" width="65px"></h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://akashsingh3031.github.io/CodeWithSky/"> Lakhan Gurjar </a><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Developer.gif" width="65px"></h1>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Lakhan-Gurjar) 
 [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=darshansaini.profileviews-badge)](https://github.com/Lakhan-Gurjar) 
@@ -18,15 +18,14 @@
 [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UCKiIyY9kVPld4Q2T9OCgS9w)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w)
 <br>
 
-- 🔭 I have done Masters Of Computer Application.
-- 🌱 I’m currently working on Open-Source.
+- 🔭 I am currently pursuing B.Tech (Computer Science).
 - :zap: I’m currently learning Data Structure and algorithms.
-- 🎯 I’m focusing on Competitive Programming.
+- 🎯 I’m focusing on Web Development.
 <!-- - <details> 
   <summary>💬 Ask me about programming languages😎 </summary> 
   
   <a href="https://wa.me/919079919895" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/whatsapp(color).png" width="27px" /> </a> 
-  <a href="https://t.me/darshansaini" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="27px" /></a>
+  <a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/telegram(color).png" width="27px" /></a>
 </details>   -->
 - <details> 
   <summary>📫  How to reach me :</summary> 
@@ -57,7 +56,7 @@
 
 <p align="left">
   <code><img src="https://github.com/darshansaini/darshansaini/blob/master/python-original.svg" alt="python" width="40" height="40"/></code> 
-  <code><img src="https://github.com/darshansaini/darshansaini/blob/master/c-original.svg" alt="C" width="40" height="40"/></code>
+  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/c-original.svg" alt="C" width="40" height="40"/></code>
   <code><img src="https://github.com/darshansaini/darshansaini/blob/master/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
   <code><img src="https://github.com/darshansaini/darshansaini/blob/master/java-original.svg" alt="Java" width="40" height="40"/></code> 
   <code><img src="https://github.com/darshansaini/darshansaini/blob/master/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
@@ -71,23 +70,23 @@
 
 ### :zap: Most used languages ❤️
 
-<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=darshansaini&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Lakhan-Gurjar&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darshansaini&theme=dracula" alt=""><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darshansaini&theme=dracula">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakhan-Gurjar&theme=dracula" alt=""><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakhan-Gurjar&theme=dracula">
 </a>
 </p>
   
 ### :zap: GitHub Stats
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darshansaini&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!%20&layout=compact" /><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshansaini&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darshansaini&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakhan-Gurjar&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!%20&layout=compact" /><br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakhan-Gurjar&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakhan-Gurjar&theme=dracula" />
 </p>
 
 
-![Darshan's github activity graph](https://activity-graph.herokuapp.com/graph?username=darshansaini&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+![Lakhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lakhan-Gurjar&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
 
 
 
