@@ -28,6 +28,9 @@
   <a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/telegram(color).png" width="27px" /></a>
 </details>   -->
 - <details> 
+  <p align="right">
+<img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile number2.gif" width="400px">
+</p>
   <summary>📫  How to reach me :</summary> 
   
   <a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/whatsapp(color).png" width="27px" /> </a> 
@@ -39,9 +42,7 @@
 </details>
 
 <br> 
-<p align="right">
-<img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile number2.gif" width="500px">
-</p>
+
 
     
 ### :zap: GitHub Trophies 🏆
