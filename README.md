@@ -39,9 +39,7 @@
 </details>
 
 <br> 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aakash-ak07&show_icons=true&locale=en&layout=compact" alt="aakash-ak07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aakash-ak07&show_icons=true&locale=en" alt="aakash-ak07" /></p>
 
     
 ### :zap: GitHub Trophies 🏆
