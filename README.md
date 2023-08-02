@@ -39,7 +39,9 @@
 </details>
 
 <br> 
-
+<p align="right">
+<img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile number2.gif" width="500px">
+</p>
 
     
 ### :zap: GitHub Trophies 🏆
