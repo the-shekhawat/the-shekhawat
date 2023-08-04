@@ -100,11 +100,11 @@
  <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/Handshake.gif" height="30px"></h4>
 
 <p align="center">
-  <code><a href="https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/youtube(color).png" alt="YouTube"  width="40px" /></a></code>
+<!--   <code><a href="https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/youtube(color).png" alt="YouTube"  width="40px" /></a></code> -->
   <code><a href="https://www.linkedin.com/in/lakhan-gurjar-a693b8286"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/linked(color).png" alt="Lakhan's linkedin" width="40px" /></a></code>  
-  <code><a href="https://www.instagram.com/darshan_in_the_frame/" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/insta(color).png" alt="Lakhan's Instagram" width="40px" /></a></code>
-  <code><a href="https://www.facebook.com/darshan.saini.52035/" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/facebook(color).png" alt="Lakhan's Facebook" width="40px" /></a></code>
-  <code><a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gujar/blob/master/telegram(color).png" width="40px" /></a></code>
+<!--   <code><a href="https://www.instagram.com/darshan_in_the_frame/" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/insta(color).png" alt="Lakhan's Instagram" width="40px" /></a></code> -->
+<!--   <code><a href="https://www.facebook.com/darshan.saini.52035/" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/facebook(color).png" alt="Lakhan's Facebook" width="40px" /></a></code> -->
+<!--   <code><a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gujar/blob/master/telegram(color).png" width="40px" /></a></code> -->
   <code><a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/whatsapp(color).png" width="40px" /></a></code>
   <code><a href="https://github.com/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github(color).png" width="50px"/></a></code> 
   </p>
