@@ -25,6 +25,7 @@
 - :zap: I’m currently learning Data Structure and algorithms.
   <br>
 - 🎯 I’m focusing on Web Development.
+<br><br>
 <!-- - <details> 
   <summary>💬 Ask me about programming languages😎 </summary> 
   
