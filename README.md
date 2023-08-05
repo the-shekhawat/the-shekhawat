@@ -21,7 +21,9 @@
 <img align='left' src="https://media.giphy.com/media/j37kBRJfS4VkGnh1u1/giphy.gif" width="150">
 <h3>Quick facts</h3>
 - 🔭 I am currently pursuing B.Tech (Computer Science).
+<br>
 - :zap: I’m currently learning Data Structure and algorithms.
+  <br>
 - 🎯 I’m focusing on Web Development.
 <!-- - <details> 
   <summary>💬 Ask me about programming languages😎 </summary> 
