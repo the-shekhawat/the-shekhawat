@@ -45,7 +45,7 @@
 <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile number2.gif" width="400px">
 </p>
   <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mrinalxdev&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="center" />
 </div>  
 ✍️ Quote :
 
