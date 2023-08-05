@@ -26,12 +26,15 @@
   <br>
 - 🎯 I’m focusing on Web Development.
 <br><br>
+
 <!-- - <details> 
   <summary>💬 Ask me about programming languages😎 </summary> 
   
   <a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/whatsapp(color).png" width="27px" /> </a> 
   <a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/telegram(color).png" width="27px" /></a>
+  
   </details>   -->
+  
 - <details> 
   <p align="right">
 <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile number2.gif" width="400px">
