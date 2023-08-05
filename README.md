@@ -31,6 +31,9 @@
   <p align="right">
 <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile number2.gif" width="400px">
 </p>
+✍️ Quote :
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
   <summary>📫  How to reach me :</summary> 
   
