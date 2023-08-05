@@ -17,6 +17,7 @@
 [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w)
 [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UCKiIyY9kVPld4Q2T9OCgS9w)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w)
 <br>
+<br>
 <img align='left' src="https://media.giphy.com/media/j37kBRJfS4VkGnh1u1/giphy.gif" width="150">
 <h3>Quick facts</h3>
 - 🔭 I am currently pursuing B.Tech (Computer Science).
