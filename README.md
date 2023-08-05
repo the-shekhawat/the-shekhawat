@@ -31,12 +31,12 @@
 - 🎯 I’m focusing on Web Development.
 <br><br>
 
-<!-- - <details> 
-<br/>  
+<!-- - <details>
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31c3ksqmgclvohlyrg737ldoxfc4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=mrinalxdev&&style=flat-square" align="center" />
+</div>  
 
-<br/>  
   <summary>💬 Ask me about programming languages😎 </summary> 
   
   <a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/whatsapp(color).png" width="27px" /> </a> 
