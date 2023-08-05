@@ -39,14 +39,14 @@
   <a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/telegram(color).png" width="27px" /></a>
   
   </details>   -->
-  <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mrinalxdev&&style=flat-square" align="center" />
-</div>  
 
 - <details> 
   <p align="right">
 <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile number2.gif" width="400px">
 </p>
+  <div align="center">
+<img src="https://komarev.com/ghpvc/?username=mrinalxdev&&style=flat-square" align="center" />
+</div>  
 ✍️ Quote :
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
