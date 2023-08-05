@@ -33,12 +33,12 @@
 
 <!-- - <details>
 
+  <summary>💬 Ask me about programming languages😎 </summary> 
+  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mrinalxdev&&style=flat-square" align="center" />
 </div>  
 
-  <summary>💬 Ask me about programming languages😎 </summary> 
-  
   <a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/whatsapp(color).png" width="27px" /> </a> 
   <a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/telegram(color).png" width="27px" /></a>
   
