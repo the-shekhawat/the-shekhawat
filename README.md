@@ -47,6 +47,7 @@
   <div align="left">
 <img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="left" />
 </div>  
+
 ✍️ Quote :
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
