@@ -19,7 +19,6 @@
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:lakhangurjar831@gmail.com)
 [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w)
 [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UCKiIyY9kVPld4Q2T9OCgS9w)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w)
-  <div align="centre">
 <img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="centre" />
 </div>  
 <br>
