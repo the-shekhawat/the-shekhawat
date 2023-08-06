@@ -23,7 +23,6 @@
 </div>  
 <br>
 <br>
-<br>
 <img align='left' src="https://media.giphy.com/media/j37kBRJfS4VkGnh1u1/giphy.gif" width="150">
 <h3>Quick facts</h3>
 - 🔭 I am currently pursuing B.Tech (Computer Science).
