@@ -8,11 +8,6 @@
 </p>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Lakhan-Gurjar) 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="left" />
-</div>  
-<br>
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=Lakhan-Gurjar.profileviews-badge)](https://github.com/Lakhan-Gurjar) 
 [![Repos Badge](https://badges.pufler.dev/repos/Lakhan-Gurjar)](https://github.com/Lakhan-Gurjar?tab=repositories) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Lakhan-Gurjar) 
 [![GitHub followers](https://img.shields.io/github/followers/Lakhan-Gurjar?style=social)](https://github.com/Lakhan-Gurjar?tab=followers) 
@@ -49,6 +44,10 @@
 <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile number2.gif" width="400px">
 </p>
   <div align="left">
+<img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="left" />
+</div>  
+<br>
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="left" />
 </div>  
 <br>
