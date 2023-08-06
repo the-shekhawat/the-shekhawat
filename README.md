@@ -8,7 +8,6 @@
 </p>
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Lakhan-Gurjar) 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Lakhan-Gurjar&left_color=red&right_color=green&left_text=Hello%20Visitors)
 [![Repos Badge](https://badges.pufler.dev/repos/Lakhan-Gurjar)](https://github.com/Lakhan-Gurjar?tab=repositories) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Lakhan-Gurjar) 
 [![GitHub followers](https://img.shields.io/github/followers/Lakhan-Gurjar?style=social)](https://github.com/Lakhan-Gurjar?tab=followers) 
@@ -20,6 +19,10 @@
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:lakhangurjar831@gmail.com)
 [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w)
 [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UCKiIyY9kVPld4Q2T9OCgS9w)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w)
+  <div align="left">
+<img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="left" />
+</div>  
+<br>
 <br>
 <br>
 <img align='left' src="https://media.giphy.com/media/j37kBRJfS4VkGnh1u1/giphy.gif" width="150">
@@ -44,10 +47,7 @@
   <p align="right">
 <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile number2.gif" width="400px">
 </p>
-  <div align="left">
-<img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="left" />
-</div>  
-<br>
+
 ✍️ Quote :
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
