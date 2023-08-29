@@ -27,7 +27,9 @@
 <h3>Quick facts</h3>
 - 🔭 I am currently pursuing B.Tech (Computer Science).
 <br>
-- :zap: I’m currently learning Data Structure and algorithms.
+- :zap: I’m currently C++ and Python.
+  <br>
+  - :zap: I’m currently learning Data Structure and algorithms.
   <br>
 - 🎯 I’m focusing on Web Development.
 <br><br>
