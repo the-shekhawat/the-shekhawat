@@ -29,7 +29,7 @@
 <br>
 - :zap: I’m currently C++ and Python.
   <br>
-  - § I’m currently learning Data Structure and algorithms.
+  - 🌱 I’m currently learning Data Structure and algorithms.
   <br>
 - 🎯 I’m focusing on Web Development.
 <br><br>
