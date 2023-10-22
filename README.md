@@ -45,7 +45,7 @@
 
 - <details> 
   <p align="right">
-<img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile number2.gif" width="400px">
+<img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile%20number2.gif" width="400px">
 </p>
 
 ✍️ Quote :
