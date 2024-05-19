@@ -101,6 +101,10 @@
 </a>
 </p>
 
+<p align="center">
+ <img width="1000" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github-snake.svg" alt="snake"/>
+</p>
+
 ### :zap: GitHub Stats
 
 <p align="center">&nbsp;
@@ -110,7 +114,7 @@
 </p>
 
 
-![Lakhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lakhan-Gurjar&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+<!--[Lakhan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Lakhan-Gurjar&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)-->
 
 
 
@@ -131,6 +135,3 @@
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/marquee.svg"/> 
 
-<p align="center">
- <img width="1000" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github-snake.svg" alt="snake"/>
-</p>
