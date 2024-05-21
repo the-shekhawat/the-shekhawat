@@ -130,7 +130,7 @@
 <!--   <code><a href="https://www.facebook.com/darshan.saini.52035/" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/facebook(color).png" alt="Lakhan's Facebook" width="40px" /></a></code> -->
 <!--   <code><a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gujar/blob/master/telegram(color).png" width="40px" /></a></code> -->
   <code><a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/whatsapp(color).png" width="40px" /></a></code>
-  <code><a href="https://github.com/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github-mark-white.svg" width="50px"/></a></code> 
+  <code><a href="https://github.com/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github-mark-white.svg" width="40px"/></a></code> 
   </p>
 
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/marquee.svg"/> 
