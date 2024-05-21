@@ -14,13 +14,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/Lakhan-Gurjar?style=social)](https://github.com/Lakhan-Gurjar?tab=followers) 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/lakhan-gurjar-a693b8286) 
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:lakhangurjar831@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="centre" />
 <!-- [![Connect on WhatsApp](https://img.shields.io/badge/--WhatsApp?label=WhatsApp&logo=WhatsApp&style=social)](https://wa.me/9636882833)
 [![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/Lakhan-Gurjar) 
 [![Connect on Facebook](https://img.shields.io/badge/--Facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/darshan.saini.52035)
 [![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/darshan_in_the_frame/) -->
 <!-- [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w)
 [![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UCKiIyY9kVPld4Q2T9OCgS9w)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w) -->
-<img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="centre" />
 </div>  
 <br>
 <br>
