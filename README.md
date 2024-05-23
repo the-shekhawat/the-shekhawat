@@ -72,7 +72,7 @@
 <p align="center">
   <a href="https://github.com/Lakhan-Gurjar/github-profile-trophy" target="_blank">
     <img src=
-    "https://github-profile-trophy.vercel.app/?username=Lakhan-Gurjar&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfreshs%22">
+    "https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh">
   </a>
 </p> 
  
