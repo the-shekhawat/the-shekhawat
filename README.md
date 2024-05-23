@@ -110,7 +110,10 @@
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lakhan-Gurjar&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87%20%F0%9F%99%8F%20Programmers!%20&layout=compact" /><br><br>
- <!-- <img align="center" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Lakhan-Gurjar&theme=radical&hide_border=true" alt="GitHub Streak"/></a> <br><br>
+ <a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Lakhan-Gurjar&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</a>
+
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Lakhan-Gurjar&theme=juicyfresh" />
 </p>
 
