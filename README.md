@@ -1,6 +1,6 @@
 <p align="center">
 <!-- <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile.gif" width="800px"> -->
-![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
+ <img src="https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg" alt="Technology Binary Number Programming Wallpaper" style="width: 100%; height: auto;">
 </p>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://www.youtube.com/watch?v=cY4nGCw-JxY"> Lakhan Gurjar </a><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Developer.gif" width="65px"></h1>
 <p align="center">
