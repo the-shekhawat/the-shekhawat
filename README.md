@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile.gif" width="800px"> 
+ <!-- <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile.gif" width="800px"> 
  <img src="https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg" alt="Technology Binary Number Programming Wallpaper" style="width: 100%; height: auto;"> -->
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image" style="width: 100%; height: auto;">
 </p>
