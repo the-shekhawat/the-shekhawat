@@ -12,17 +12,17 @@
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Lakhan-Gurjar) 
 [![Repos Badge](https://badges.pufler.dev/repos/Lakhan-Gurjar)](https://github.com/Lakhan-Gurjar?tab=repositories) 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Lakhan-Gurjar) 
-[![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DLakhan-Gurjar%26type%3Djson)](https://github.com/Lakhan-Gurjar)
 [![GitHub followers](https://img.shields.io/github/followers/Lakhan-Gurjar?style=social)](https://github.com/Lakhan-Gurjar?tab=followers) 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/lakhan-gurjar-a693b8286) 
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:lakhangurjar831@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="centre" />
+<!-- [![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DLakhan-Gurjar%26type%3Djson)](https://github.com/Lakhan-Gurjar) -->
 <!-- [![Connect on WhatsApp](https://img.shields.io/badge/--WhatsApp?label=WhatsApp&logo=WhatsApp&style=social)](https://wa.me/9636882833)
 [![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/Lakhan-Gurjar) 
 [![Connect on Facebook](https://img.shields.io/badge/--Facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/darshan.saini.52035)
 [![Connect on Instragram](https://img.shields.io/badge/--Instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/darshan_in_the_frame/) -->
 <!-- [![Subscribe my Channel](https://img.shields.io/badge/--youtube?label=YouTube&logo=YouTube&style=social)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w)
-[![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UCKiIyY9kVPld4Q2T9OCgS9w)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w) -->
+[![Subscribers on my Channel](https://img.shields.io/youtube/channel/subscribers/UCKiIyY9kVPld4Q2T9OCgS9w)](https://www.youtube.com/channel/UCKiIyY9kVPld4Q2T9OCgS9w) 
+<img src="https://komarev.com/ghpvc/?username=Lakhan-Gurjar&&style=flat-square" align="centre" /> -->
 </div>  
 <br>
 <br>
@@ -44,25 +44,31 @@
   <a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/whatsapp(color).png" width="27px" /> </a> 
   <a href="https://t.me/Lakhan-Gurjar" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/main/telegram(color).png" width="27px" /></a>
   
-  </details>   -->
+  </details>  
 
 - <details> 
   <p align="right">
 <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile%20number2.gif" width="400px">
-</p>
+</p>  -->
 
 ✍️ Quote :
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
   <summary>📫  How to reach me :</summary> 
-  
-  <a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/whatsapp(color).png" width="27px" /> </a> 
-  <a href="https://t.me/darshansaini" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/telegram(color).png" width="27px" /> </a> 
+  <a href="https://www.linkedin.com/in/lakhan-gurjar-a693b8286" target="_blank">
+    <img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/linked(color).png" width="27px" alt="LinkedIn Icon"/>
+</a>
+<a href="mailto:lakhangurjar831@gmail.com">
+    <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/Gmail_icon_(2020).svg" width="27px" alt="Gmail Icon"/>
+</a>
+
+  <!-- <a href="https://wa.me/9636882833" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/whatsapp(color).png" width="27px" /> </a>
   <a href="https://www.linkedin.com/in/lakhan-gurjar-a693b8286" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/linked(color).png" width="27px" /> </a> 
+ <a href="mailto:lakhangurjar831@gmail.com"><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/Gmail_icon_(2020).svg" width="27px" alt="Gmail Icon"/></a>
+  <a href="https://t.me/darshansaini" target="blank"><img align="center" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/telegram(color).png" width="27px" /> </a>  
   <a href="https://www.instagram.com/darshan_in_the_frame/" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/Instagram.png" width="27px" /> </a> 
-  <a href="https://www.facebook.com/darshan.saini.52035" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/facebook(color).png" alt="Akash's Facebook" width="27px" /> </a>
-  <a href="mailto:lakhangurjar831@gmail.com"> <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/Gmail_icon_(2020).svg" width="27px"/> </a>
+  <a href="https://www.facebook.com/darshan.saini.52035" target="blank"><img align="center" src="https://github.com/darshansaini/darshansaini/blob/master/facebook(color).png" alt="Akash's Facebook" width="27px" /> </a> --> 
 </details>
 
 <br> 
@@ -105,7 +111,7 @@
 </p>
 
 <p align="center">
- <img width="1000" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github-snake.svg" alt="snake"/>
+ <!-- <img width="1000" src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github-snake.svg" alt="snake"/> -->
 </p>
 
 ### :zap: GitHub Stats
