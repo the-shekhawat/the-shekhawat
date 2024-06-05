@@ -91,8 +91,8 @@
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/c-original.svg" alt="C" width="40" height="40"/></code>
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/cplusplus-original.svg" alt="C++" width="40" height="40"/></code> 
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/java-original.svg" alt="Java" width="40" height="40"/></code> 
-  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/html5-original-wordmark.svg" alt="html5" height="40"/></code> 
-  <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/css3-original-wordmark.svg" alt="css3" height="40"/></code> 
+<!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/html5-original-wordmark.svg" alt="html5" height="40"/></code>  -->
+<!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/css3-original-wordmark.svg" alt="css3" height="40"/></code>  -->
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/git-scm-icon.svg" alt="git" width="40" height="40"/></code> 
   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/github-mark-white.svg" alt="github" width="40" height="40"/></code> 
 <!--   <code><img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code> -->
