@@ -1,18 +1,18 @@
 <p align="center">
- <!-- <img src="https://github.com/Lakhan-Gurjar/Lakhan-Gurjar/blob/master/gitprofile.gif" width="800px"> 
+ <!-- <img src="https://github.com/the-shekhawat/the-shekhawat/blob/master/gitprofile.gif" width="800px"> 
  <img src="https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg" alt="Technology Binary Number Programming Wallpaper" style="width: 100%; height: auto;"> -->
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Header Image" style="width: 100%; height: auto;">
 </p>
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"><𝚌𝚘𝚍𝚎𝚛𝚜/>!, I'm <a href="https://www.youtube.com/watch?v=cY4nGCw-JxY"> Rishabh Shekhawat </a><img src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/Developer.gif" width="65px"></h1>
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! Myself Lakhan Gurjar;A %20coding%20Enthusiast 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! Myself Rishabh Shekhawat;A %20coding%20Enthusiast 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
 </p>
 
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Lakhan-Gurjar) 
-[![Repos Badge](https://badges.pufler.dev/repos/Lakhan-Gurjar)](https://github.com/Lakhan-Gurjar?tab=repositories) 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Lakhan-Gurjar) 
-[![GitHub followers](https://img.shields.io/github/followers/Lakhan-Gurjar?style=social)](https://github.com/Lakhan-Gurjar?tab=followers) 
+[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/the-shekhawat) 
+[![Repos Badge](https://badges.pufler.dev/repos/Lakhan-Gurjar)](https://github.com/the-shekhawat?tab=repositories) 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/the-shekhawat) 
+[![GitHub followers](https://img.shields.io/github/followers/the-shekhawat?style=social)](https://github.com/the-shekhawat?tab=followers) 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/lakhan-gurjar-a693b8286) 
 [![Connect on Gmail](https://img.shields.io/badge/--Gmail?label=Gmail&logo=Gmail&style=social)](mailto:lakhangurjar831@gmail.com)
 <!-- [![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DLakhan-Gurjar%26type%3Djson)](https://github.com/Lakhan-Gurjar) -->
